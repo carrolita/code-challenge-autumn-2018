@@ -56,15 +56,12 @@ If you haven't coded before we suggest these resources to get you started, but f
 * [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 
 ### :sos: How to get help
-Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this!
+Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this! Try searching for your questions on Google or for example at [MDN](https://developer.mozilla.org/en-US/) .
 
-We also have a community on Slack in which we will post useful links and answer questions. [Join here.](https://join.slack.com/t/technigo/shared_invite/enQtMjg1MzI1NDkzNTM2LWM0YmJmZDdkNTNjNzUwOGIxYTVjODY0YTYyMDVmOGY5NWQwODYzMTk0NTRlMzI0M2E4MDQ4ZTIyOWZhMDM2ZjE)
+We have also arranged an evening at our studio when you can visit us to hear more about our program and at the same time get help and support with the code challenge. 
 
-We have a range of channels setup – they're a great place to go to look for both help and inspiration, also feel free to contribute. They're completely optional to join, but we recommend it. There's several Slack channels in the group, here's a few we think might be of use to you:
+This evening takes place at Wednesday April 25th at 6-8 PM at our studio on Långholmen - if you would like to join, please e-mail us at hello@technigo.io latest Monday 23rd.
 
-* **#help** If you have any questions about your coding challenge or the program we're there to help.
-* **#resources** Tutorials, design assets or other useful material.  
-* **#general** For anything else, funny links, great articles etc. 
 
 ---
 
