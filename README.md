@@ -5,9 +5,12 @@ We're happy that you're thinking about applying for our boot camp! Here you'll f
 There's two main things you need to do:  
 
 ✅First, complete the code challenge (deadline May 28th). See brief below. 
+
 ✅Secondly, write your application (deadline May 28th). [Fill in the written application.](https://technigo.typeform.com/to/WYgUEV)
 
 If you have any questions, plz reach out on hello@technigo.io. 
+
+We will fill seats continuously. You can expect to hear back from us about the next step in the process no later than 7 days from you handing in your application. Our last date to give notice about enrolment is June 11th, but if you hand in your application early this will be before that. Start preparing already now with your employer for potential leave of absence. The program starts on September 3rd – Yay!
 
 Good luck! 
 
