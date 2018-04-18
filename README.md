@@ -49,18 +49,17 @@ The coding assignment will be judged by a jury from the industry. All solutions 
 
 ### :books: Readings
 
-If you haven't coded before we suggest these resources to get you started, but feel free to google!  
+If you haven't coded before we suggest these resources to get you started, but feel free to Google!  
 
 * [What is HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 * [How CSS works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
 
 ### :sos: How to get help
-Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this! Try searching for your questions on Google or for example at [MDN](https://developer.mozilla.org/en-US/) .
+Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this! Try searching for your questions on Google or for example in an online development community like [MDN](https://developer.mozilla.org/en-US/) .
 
-We have also arranged an evening at our studio when you can visit us to hear more about our program and at the same time get help and support with the code challenge. 
+If you need help with the code challenge or just want to visit our studio - we arrange an open house on May 3rd. If you would like to participate, read more and sign up on this event page:  https://try-our-boot-camp.confetti.events/?__s=vyhfce5ozsxgixv1xmkr  
 
-This evening takes place at Wednesday April 25th at 6-8 PM at our studio on Långholmen - if you would like to join, please e-mail us at hello@technigo.io latest Monday 23rd.
 
 
 ---
@@ -76,4 +75,4 @@ After completing this challenge we hope that you will understand more what progr
 If you managed to do everything super quickly and can't get enough of coding, here's some suggestions of what you can add. TOTALLY optional.
 
 1. Use a custom font using [Google fonts.](https://fonts.google.com/?utm_source=google&utm_medium=cpc&utm_campaign=1001467%20%7C%20Material.IO%20%7C%20Global%20%7C%20en%20%7C%20Hybrid%20%7C%20Text%20%7C%20BKWS&utm_term=%7Bkeyword%7D&gclid=EAIaIQobChMItcCyxeaG2AIVwbYYCh3OtgmsEAAYASAAEgJ6O_D_BwE)
-1. Make the page responsive and look differently on mobile than desktop.
+2. Make the page responsive and look differently on mobile than desktop.
