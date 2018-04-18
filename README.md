@@ -6,7 +6,7 @@ There's two main things you need to do:
 
 ✅First, complete the code challenge (deadline May 28th). See brief below. 
 
-✅Secondly, write your application (deadline May 28th). [Fill in the written application.](https://technigo.typeform.com/to/WYgUEV)
+✅Secondly, write your application (deadline May 28th). **[Fill in the written application.](https://technigo.typeform.com/to/WYgUEV)**
 
 If you have any questions, plz reach out on hello@technigo.io. 
 
