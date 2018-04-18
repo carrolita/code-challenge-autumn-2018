@@ -58,7 +58,7 @@ If you haven't coded before we suggest these resources to get you started, but f
 ### :sos: How to get help
 Learning how to think as a web developer is learning how to be an expert in problem solving. Google will very much be you friend in this! Try searching for your questions on Google or for example in an online development community like [MDN](https://developer.mozilla.org/en-US/) .
 
-If you need help with the code challenge or just want to visit our studio - we arrange an open house on May 3rd. If you would like to participate, read more and sign up on this event page:  https://try-our-boot-camp.confetti.events/?__s=vyhfce5ozsxgixv1xmkr  
+If you need help with the code challenge or just want to visit our studio - we arrange an open house on May 3rd. If you would like to participate, read more and sign up on [the Event Site ](https://try-our-boot-camp.confetti.events/?__s=vyhfce5ozsxgixv1xmkr)  
 
 
 
