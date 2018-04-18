@@ -1,6 +1,19 @@
-# :star2: Coding Challenge for Technigo Boot Camp Fall 2018 :star2:
+# :star2: Application for the Technigo Boot Camp Fall 2018 :star2:
 
-We're happy that you're thinking about applying for our boot camp! This is the first step, and the most fun, in the application – The Coding Challenge. 
+We're happy that you're thinking about applying for our boot camp! Here you'll find all information about the code challenge and the written application. 
+
+There's two main things you need to do:  
+
+✅First, complete the code challenge (deadline May 28th). See brief below. 
+✅Secondly, write your application (deadline May 28th). [Fill in the written application.](https://technigo.typeform.com/to/WYgUEV)
+
+If you have any questions, plz reach out on hello@technigo.io. 
+
+Good luck! 
+
+# The Code Challenge Fall 2018
+
+This is the first step, and the most fun, in the application – The Coding Challenge. 
 
 ## The brief
 
@@ -38,7 +51,7 @@ Hand in the assignment by:
 * Create an account on Github.com
 * Start a new repository or project, make sure it's public.
 * [Upload](https://help.github.com/articles/adding-a-file-to-a-repository/) your whole code folder.
-* Attach the link to the repository in your written application.
+* Attach the link to the repository in your [written application.](https://technigo.typeform.com/to/WYgUEV)
 
 Good luck!
 
