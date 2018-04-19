@@ -38,7 +38,7 @@ Make sure to have fun during the process! Do something that you find interesting
 
 ## How to complete this assignment
 
-1. Start by sketching with pen and paper how you want your version of Facebook's login page to look like.
+1. Start by sketching with pen and paper how you want your version of Google's login page to look like.
 1. Structure your work. Break down your solution in smaller blocks. Estimate how long each block will take to build. Does it sound reasonable to finish? If yes, move on to the next step. If not, go back to step 1 and revise your scope.
 1. Download or clone this repository with templates and start coding.
 
